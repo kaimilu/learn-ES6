@@ -1,6 +1,7 @@
 const webpack = require('webpack');
 const path = require('path');
 
+// test win10
 module.exports = {
   context: __dirname,
   entry: './src/main.js',
